@@ -1,11 +1,11 @@
-.Testiomonials{
+.Testimonials{
     display: flex;
     gap: 1rem;
     padding: 0 2rem;
 }
 .left-t{
     display: flex;
-    flex:1.1 1;
+    flex:1 1;
     gap: 2rem;
     flex-direction: column;
     text-transform: uppercase;
@@ -29,12 +29,12 @@
     line-height: 40px;
 }
 .right-t{
-flex: 1 1;
+flex: 1 ;
 position: relative;
 }
 
 .right-t>img{
-     /* position: absolute;  */
+      position: absolute;  
     width: 17rem;
     height: 20rem;
     object-fit: cover;
