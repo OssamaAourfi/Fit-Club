@@ -38,6 +38,9 @@
   align-items: center;
   justify-content: center;
 }
-btn:hover{
+.btn:hover{
   cursor: pointer;
+}
+.blur{
+  
 }
